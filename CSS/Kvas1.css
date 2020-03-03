@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#Заголовок{
+padding-left:60px ;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: "Times New Roman";
+}
+#Ssulki{
+    margin: auto;
+    padding-bottom: 30px;
+    width: 30%;
+}
+#Otpravit{
+    padding: 15px;
+}
+#Ramka{
+    padding-left: 60px;
+    width: 170px;
+}
